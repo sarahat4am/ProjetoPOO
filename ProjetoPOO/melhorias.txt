@@ -1,0 +1,5 @@
+Alguns métodos contidos na classe SistemaBanco poderiam ser melhorados,
+tornando-os menos extensos e mais diretos, já que um código muito extenso pode
+atrapalhar na manutenção e na criação de testes para os métodos. Podem existir também,
+alguns códigos mortos, para métodos que não estão sendo utilizados nos sistema, portanto,
+não se fazem necessários para o desenvolvimento do projeto e da interface.
